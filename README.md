@@ -4,7 +4,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/spendwise.git
+   git clone https://github.com/2212vishal/firebase_basics.git
    ```
 
 2. **Configure Firebase**:
